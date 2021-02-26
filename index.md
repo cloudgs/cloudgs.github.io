@@ -10,10 +10,9 @@ Online Service:  <a href="https://tawk.to/chat/5bc3ff7008387933e5bb4d56/default"
 ### What is GssCloud
 Packed full of features you'll love,Easily Deploy Cloud Servers, Bare Metal, and Storage worldwide!
 Surfing on the Internet
-Shared VPS DedicatedHosting
+Shared VPS DedicatedHosting.
 
-### Instant deployment worldwide
-Gsscloud is available in 14 locations worldwide, spanning North America, Europe, Asia and Australia. And best of all, getting your hosting infrastructure closer to your customer base does not require any long term contracts. So, what are you waiting for? Deploy servers on 4 continents with just a few clicks!
+
 
 <script type="text/javascript">
 	$(document).ready(function() {
